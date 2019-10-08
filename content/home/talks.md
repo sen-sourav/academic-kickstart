@@ -10,6 +10,10 @@ weight = 70  # Order that this section will appear.
 title = "Selected Talks"
 subtitle = ""
 
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"

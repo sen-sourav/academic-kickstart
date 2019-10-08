@@ -4,7 +4,7 @@ title: "Detectors for Superboosted tau-leptons at Future Circular Colliders"
 #subtitle: ""
 #summary: ""
 event: 38th International Conference on High Energy Physics
-#(https://indico.cern.ch/event/432527/contributions/1071269/)
+event_url: https://indico.cern.ch/event/432527/contributions/1071269/
 
 location: Chicago, IL
 authors: [Sourav Sen]
