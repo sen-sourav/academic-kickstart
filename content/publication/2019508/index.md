@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Physics Letters B*"
 doi: "10.1016/j.physletb.2018.11.064"
+url_pdf: "https://arxiv.org/pdf/1808.09054.pdf"
 ---
 

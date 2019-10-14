@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*39th International Conference on High Energy Physics (ICHEP 2018) Seoul, Korea, July 4-11, 2018*"
+url_pdf: "https://arxiv.org/pdf/1811.12805.pdf"
 ---
 

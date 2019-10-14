@@ -10,7 +10,7 @@ location: Chicago, IL
 authors: [Sourav Sen]
 #tags: []
 #categories: []
-date: 2016-08-06
+date: 2016-08-06T18:00:00
 #lastmod: 2019-10-07T21:28:35-04:00
 #featured: false
 #draft: false

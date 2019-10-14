@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Journal of Instrumentation*"
 doi: "10.1088/1748-0221/14/05/p05008"
+url_pdf: "https://arxiv.org/pdf/1901.11146.pdf"
 ---
 

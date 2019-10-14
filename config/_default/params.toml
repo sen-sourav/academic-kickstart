@@ -175,7 +175,7 @@ plugins_js  = []
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
-  time_format = ""
+  #time_format = ""
 
 # Configuration of publication pages.
 [publications]

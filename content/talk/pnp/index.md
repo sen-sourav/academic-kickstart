@@ -8,7 +8,7 @@ location: CERN
 authors: [Sourav Sen]
 #tags: []
 categories: [Invited talk]
-date: 2019-01-23
+date: 2019-01-23T08:00:00
 #lastmod: 2019-10-07T21:28:35-04:00
 #featured: false
 #draft: false

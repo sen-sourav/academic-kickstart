@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Physics Letters B*"
 doi: "10.1016/j.physletb.2012.09.035"
+url_pdf: "https://arxiv.org/pdf/1207.6459.pdf"
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*38th International Conference on High Energy Physics*"
+url_pdf: "https://pos.sissa.it/282/788/pdf"
 ---
 

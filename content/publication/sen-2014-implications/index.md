@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Physical Review D*"
 doi: "10.1103/PhysRevD.89.063004"
+url_pdf: "https://arxiv.org/pdf/1207.1070.pdf"
 ---
 

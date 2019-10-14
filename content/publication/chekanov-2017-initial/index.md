@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Instrumentation*"
+url_pdf: "https://arxiv.org/pdf/1612.07291.pdf"
 ---
 
